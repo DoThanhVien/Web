@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css?family=Pacifico');
+@import url('https://fonts.googleapis.com/css?family=Great+Vibes|Righteous');
+@import url('https://fonts.googleapis.com/css?family=Lobster');
+.img-circle {
+  border-radius: 50%;
+}
+.img-rounded{
+	border-radius:15%;
+}
+.bg-cl{
+	background-color: #28a745;
+}
+.bg-cl111{
+ background-image: url('images/bg.jpg');
+}
+.ig-c{
+	height: 32rem;
+}
+.font-new2{font-family: 'Lobster', cursive;}
+.font-new1{font-family: 'Great Vibes', cursive; font-family: 'Righteous', cursive;}
+.font-new{font-family: 'Pacifico', cursive;  margin-left: -20px;}
+.jumbotron1 {
+  padding: 2rem 1rem;
+  margin-bottom: 4rem;
+}
+.btn-t{
+	color: #FFFFFF;
+	border-color: #FFFFFF;
+}
+.btn-t:hover{
+	 color: #fff;
+  background-color: #28a745;
+  border-color: #28a745;
+}
+.chamxanh li{
+	background-color: #28a745;
+}
+.menu_position { 
+  left: 0;
+  max-width: 100%;
+  overflow: visible;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1000;
+}
+.follow-us-r{
+	float: right;
+	margin-right: 163px;
+}
+.follow-us{
+	float: right;
+}
+.follow-us li{
+	display: inline-block;
+}
+.follow-us ul{
+	margin-right: 20px;
+}
+.address{
+	float: bottom;
+}
+.address li{
+	display:inline-block;
+}
+.Thrive li{
+	display: flex;
+}
+.Thrive{
+	font-size: 15px;
+}
+.footerLeft{
+	background: #28a745;
+}
+.footerRight{
+	float: right;
+}
+.paddingT{
+	padding-top: 20px;
+}
+.padR{
+	padding-right: 45px;
+
+}
+.icon-screen-desktop:before {
+    content: "\e011";
+}
+/*****/
+.pdgt{
+	padding-top: 60px;
+	padding-bottom: 90px
+}
